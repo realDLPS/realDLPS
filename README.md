@@ -7,7 +7,7 @@ Game developer
 I have been a game developer for the last 4 years. I have used a variety of game engines for a while but I settled with unreal.
 
 * 🌍  I'm based in Finland
-* 🧠  I'm learning I am working on and off on my own 2D game engine.
+* 🧠  I'm working on and off on my own 2D game engine.
 
 ### Skills
 
